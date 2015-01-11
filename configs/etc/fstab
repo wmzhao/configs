@@ -1,0 +1,26 @@
+# 
+# /etc/fstab: static file system information
+#
+# <file system>	<dir>	<type>	<options>	<dump>	<pass>
+tmpfs		/tmp	tmpfs	nodev,nosuid	0	0
+# DEVICE DETAILS: /dev/sda1 UUID=6c26658c-8d47-474d-b131-e67bf82aee7c LABEL=mysys
+# DEVICE DETAILS: /dev/sda2 UUID=1E49-F609 LABEL=boot
+# DEVICE DETAILS: /dev/sda3 UUID=9e8a4b28-ae43-4891-b9c2-1827dbef9c4f LABEL=swap
+UUID=1E49-F609 /boot vfat defaults 0 1
+#/dev/sda2 /boot vfat defaults 0 1
+UUID=6c26658c-8d47-474d-b131-e67bf82aee7c / ext4 defaults 0 1
+#UUID=9e8a4b28-ae43-4891-b9c2-1827dbef9c4f swap swap defaults 0 0
+/dev/sda3 swap swap defaults 0 0
+
+#/dev/sdb1 /media2 ntfs nofail,noatime,nodiratime
+LABEL="FantomHD" /media2 ntfs nofail,noatime,nodiratime
+
+#/dev/sdc1 /mnt ntfs nofail,noatime,nodiratime
+#LABEL="Hitachi" /mnt ntfs noatime,nodiratime
+
+
+#Hitachi 4T
+UUID=4681f056-1cdf-4b5e-911b-462cad8f9a5d /media4 ext4 nofail,noatime,nodiratime
+
+#Seagate 3T
+UUID=f599ab1c-57c1-4099-89e5-30414bfa8069 /media3 ext4 nofail,noatime,nodiratime
