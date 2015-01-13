@@ -27,7 +27,7 @@
 
 CURRENT_BG='NONE'
 SEGMENT_SEPARATOR=''
-
+SEGMENT_SEPARATOR_R=''
 # Begin a segment
 # Takes two arguments, background and foreground. Both can be omitted,
 # rendering default background/foreground.
@@ -139,9 +139,28 @@ prompt_hg() {
   fi
 }
 
+get_short_path() {
+	HOME_TILDE=~
+	LONG_PATH="$PWD"
+	if [[ $LONG_PATH =~ ^$HOME_TILDE ]]; then
+    LONG_PATH=${LONG_PATH/$HOME_TILDE/\~}
+	fi
+
+	# check to see if the prompt path length has been specified
+	if [ ! -n "$PWD_LENGTH" ]; then
+		export PWD_LENGTH=15
+	fi
+
+    if [ ${#LONG_PATH} -gt $PWD_LENGTH ]; then
+            echo "...${LONG_PATH:-$PWD_LENGTH}"
+    else
+            echo $LONG_PATH
+    fi
+}
+
 # Dir: current working directory
 prompt_dir() {
-  prompt_segment blue black '%~'
+  prompt_segment blue white $(get_short_path)
 }
 
 # Virtualenv: current working virtualenv
@@ -174,8 +193,9 @@ build_prompt() {
   prompt_context
   prompt_dir
   prompt_git
-  prompt_hg
+ # prompt_hg
   prompt_end
 }
 
 PROMPT='%{%f%b%k%}$(build_prompt) '
+RPROMPT='$SEGMENT_SEPARATOR_R%{$bg[black]%}%{$fg[white]%}[%*]$(prompt_git)%{$reset_color%}'
