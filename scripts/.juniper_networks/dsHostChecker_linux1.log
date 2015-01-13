@@ -1,0 +1,89 @@
+          HCUtil:000 (08/22 19:21:37.948)[            main] =====================================================
+          HCUtil:000 (08/22 19:21:37.964)[            main] HttpNAR: starting
+          HCUtil:000 (08/22 19:21:37.965)[            main] HttpNAR: ivehost     = myvpn.qualcomm.com
+          HCUtil:000 (08/22 19:21:37.965)[            main] HttpNAR: locale      = en
+          HCUtil:000 (08/22 19:21:37.965)[            main] HttpNAR: home_dir    = /home/weimingz
+          HCUtil:000 (08/22 19:21:37.966)[            main] HttpNAR: user_agent  = Mozilla/5.0 (X11; Linux i686; rv:31.0) Gecko/20100101 Firefox/31.0
+          HCUtil:000 (08/22 19:21:37.966)[            main] HttpNAR: log_level   = 2
+          HCUtil:000 (08/22 19:21:37.967)[            main] HttpNAR: postRetries = 6
+          HCUtil:000 (08/22 19:21:37.967)[            main] HttpNAR: Proxy = null:null
+          HCUtil:000 (08/22 19:21:37.967)[            main] HttpNAR: Parameter0  = interval=720;process_timeout=720;failurl=;cert_md5=183fa4cc7277e1ffd5bb62e121b4aa07;hash_key=06f23f73c64c6df8a8a64ecbe431b75d166d46d1;id=22530ae22f563d58d8859bf0799386785a5b61d7;logging=1
+          HCUtil:000 (08/22 19:21:37.968)[            main] HttpNAR: Running as `weimingz', home dir `/home/weimingz'
+          HCUtil:000 (08/22 19:21:37.968)[            main] HttpNAR: running on Linux
+          HCUtil:000 (08/22 19:21:37.970)[            main] HttpNAR: will connect to IVE directly
+          HCUtil:000 (08/22 19:21:37.975)[            main] TNCClintNAR: initializing
+          HCUtil:000 (08/22 19:21:37.976)[            main] TNCClintNAR: Unable to read /etc/tnc_config
+          HCUtil:000 (08/22 19:21:37.979)[            main] IMCModule: loading `Juniper Networks - HC IMC' from classpath.
+          HCUtil:000 (08/22 19:21:37.979)[            main] IMCModule: loading `net.juniper.tnc.hostcheckerimc.HostCheckerIMC'
+          HCUtil:000 (08/22 19:21:37.983)[            main] HostCheckerIMC: initialized
+          HCUtil:000 (08/22 19:21:37.984)[        Thread-0] HandshakeRetryRequestor is started
+          HCUtil:000 (08/22 19:21:38.027)[            main] HttpNAR: created a socket on port 53833
+          HCUtil:000 (08/22 19:21:38.028)[            main] LinuxHttpNAR: wrote port to /home/weimingz/.juniper_networks/narport.txt
+          HCUtil:000 (08/22 19:21:38.028)[            main] HttpNAR: wait for connection to port 53833
+          HCUtil:000 (08/22 19:21:39.707)[            main] HttpNAR: read action `start' from /127.0.0.1:43154
+          HCUtil:000 (08/22 19:21:39.713)[            main] TncHandshake: Reading command parameters
+          HCUtil:000 (08/22 19:21:39.713)[            main] TncHandshake: Handshake parameters: IC=myvpn.qualcomm.com; DSSIGNIN=url_2; Cookie=bcb2c059%3Apfr3U%2B72DAABAAAAi%2BQxR6BaL5n64E2J8CUAqtkEJYl7byxW%2BVTyKKXZdzG1pVcGcKYnxekLuLRbzJHdZWFgYO%2BYzTYUUxfAm1CbWbFL37IEpN7PXPy0YFOyZQkrOdt4Pkrq%2ByKdY%2FwWvpIJIQANW5cNwaZaMaSW6Ei%2B4jCeLxmdr5BwIM%2FPYJfo4XDYC39Q5d6ClG1YFZ9I6%2FAD8%2BKTdxPZfXp4qKdMfcqJkwS52a129wMx0OBspmRFlx1%2FsPCNbvyzpiTz0egv%2BpQsNkQIo1zokT4EHFkJtkCDK2UDYyG%2Ba8HzH0KovQCzkNRwYxu%2BhA3F3PW99cRffRmpqo7%2BQFwfubLl3I7fN3CLi87cCIf%2F7O4q5WgXMZOkgWC4vOWiiaOOtUMzSPvJ2Fx%2FnVcSAbQg6viprcmGu94rqCt0KR0ktwzgu2TexfGbOmE%3D
+          HCUtil:000 (08/22 19:21:39.714)[        Thread-1] LoginTimeoutThread: sleeping for 720 minute(s)
+          HCUtil:000 (08/22 19:21:39.717)[            main] HostCheckerIMC: connection state changed to 0
+          HCUtil:000 (08/22 19:21:39.718)[            main] HostCheckerIMC: connection state changed to 1
+          HCUtil:000 (08/22 19:21:39.718)[            main] HostCheckerIMC: new handshake
+          HCUtil:000 (08/22 19:21:39.720)[            main] TNCoHTTP: sending update = 
+          HCUtil:000 (08/22 19:21:39.720)[            main] 00 00 00 13 c0 00 00 58 00 00 05 83 00 00 0c e4   .......X........
+          HCUtil:000 (08/22 19:21:39.720)[            main] c0 00 00 2c 00 00 05 83 00 00 0c e7 c0 00 00 1f   ...,............
+          HCUtil:000 (08/22 19:21:39.720)[            main] 00 00 05 83 00 05 83 16 70 6f 6c 69 63 79 20 72   ........policy r
+          HCUtil:000 (08/22 19:21:39.720)[            main] 65 71 75 65 73 74 00 00 00 00 0c e5 c0 00 00 1f   equest..........
+          HCUtil:000 (08/22 19:21:39.720)[            main] 00 00 05 83 41 63 63 65 70 74 2d 4c 61 6e 67 75   ....Accept-Langu
+          HCUtil:000 (08/22 19:21:39.720)[            main] 61 67 65 3a 20 65 6e 00                           age: en.        
+          HCUtil:000 (08/22 19:21:39.722)[            main] TNCoHTTP: opening connection to https://myvpn.qualcomm.com/dana-na/hc/tnchcupdate.cgi
+          HCUtil:000 (08/22 19:21:40.199)[            main] TNCoHTTP: sending update...
+          HCUtil:000 (08/22 19:21:40.299)[            main] TNCoHTTP: received response DSPREAUTH = bcb2c059%3AtPr3U0GQAwABAAAA%2F9tvdTHJyDwbc%2BuDIBTqS1qweMYGDcLk2qEEgdT5YD9%2Bto%2BN5WB3o8d2zJmmuUVKe9b2NNmHgoO0qntEQxrmxVbC6q%2BcVp73ssNtctAH2MHm8KO3JSBrwd%2F8N%2B49%2FaQ9%2BVwu%2BJqRuAhNqPdNekAuMoTEYwNtT1QLPNxxyV04HjerG6Et1TQFU67HDX36KXmixTS%2Fje39ush5bixHlR%2B8dBnyRZKrw3G7wGqAE5sfWFOYILu9iBcgeV%2FaWtYwv5f7efo3uzgUpaQxoN1LLU0ZgJFPVfjNtwDzZbvGm2iCZImWoOReEfK6LUWyUlsxZ4%2Bln1k2E1yXdQvtHOnNLByJjwp4rDsXJV5msey4OA%2BeB4KzIxNGg9PGsARwB5edfuckh3D2CgLZJAhVRDkgQfxG60YD1w3BXqCQt5Ny3RCODTRCYY28o0Zu3K17wSDDwm%2F%2F; path=/dana-na/; expires=Sat,  22-Aug-2015 19:21:40 GMT; secure
+          HCUtil:000 (08/22 19:21:40.299)[            main] TNCoHTTP: received response code = 200
+          HCUtil:000 (08/22 19:21:40.299)[            main] 00 00 00 13 c0 00 01 d0 00 00 05 83 00 00 0c e4   ................
+          HCUtil:000 (08/22 19:21:40.299)[            main] c0 00 00 0c 00 00 05 83 00 00 0c f0 c0 00 01 98   ................
+          HCUtil:000 (08/22 19:21:40.300)[            main] 00 00 05 83 00 00 0c f1 c0 00 00 28 00 00 05 83   ...........(....
+          HCUtil:000 (08/22 19:21:40.300)[            main] 51 75 61 6c 63 6f 6d 6d 20 4d 61 63 68 69 6e 65   Qualcomm Machine
+          HCUtil:000 (08/22 19:21:40.300)[            main] 20 43 65 72 74 43 68 65 63 6b 65 72 00 00 0c f2    CertChecker....
+          HCUtil:000 (08/22 19:21:40.300)[            main] c0 00 01 62 00 00 05 83 41 72 65 20 79 6f 75 20   ...b....Are you 
+          HCUtil:000 (08/22 19:21:40.300)[            main] 75 73 69 6e 67 20 4c 69 6e 75 78 3f 20 49 66 20   using Linux? If 
+          HCUtil:000 (08/22 19:21:40.300)[            main] 79 65 73 2c 20 70 6c 65 61 73 65 20 67 6f 20 74   yes, please go t
+          HCUtil:000 (08/22 19:21:40.300)[            main] 6f 20 3c 62 3e 20 3c 61 20 68 72 65 66 20 3d 20   o <b> <a href = 
+          HCUtil:000 (08/22 19:21:40.300)[            main] 68 74 74 70 73 3a 2f 2f 6d 79 76 70 6e 2e 71 75   https://myvpn.qu
+          HCUtil:000 (08/22 19:21:40.300)[            main] 61 6c 63 6f 6d 6d 2e 63 6f 6d 2f 68 6f 6d 65 3e   alcomm.com/home>
+          HCUtil:000 (08/22 19:21:40.300)[            main] 68 74 74 70 73 3a 2f 2f 6d 79 76 70 6e 2e 71 75   https://myvpn.qu
+          HCUtil:000 (08/22 19:21:40.301)[            main] 61 6c 63 6f 6d 6d 2e 63 6f 6d 2f 68 6f 6d 65 20   alcomm.com/home 
+          HCUtil:000 (08/22 19:21:40.301)[            main] 3c 2f 61 3e 3c 2f 62 3e 20 61 6e 64 20 75 73 65   </a></b> and use
+          HCUtil:000 (08/22 19:21:40.301)[            main] 20 79 6f 75 72 20 74 6f 6b 65 6e 20 74 6f 20 61    your token to a
+          HCUtil:000 (08/22 19:21:40.301)[            main] 75 74 68 65 6e 74 69 63 61 74 65 2e 0d 0a 0d 0a   uthenticate.....
+          HCUtil:000 (08/22 19:21:40.301)[            main] 4f 74 68 65 72 77 69 73 65 2c 20 70 6c 65 61 73   Otherwise, pleas
+          HCUtil:000 (08/22 19:21:40.302)[            main] 65 20 67 6f 20 62 61 63 6b 20 74 6f 20 74 68 65   e go back to the
+          HCUtil:000 (08/22 19:21:40.302)[            main] 20 6d 61 69 6e 20 70 6f 72 74 61 6c 20 70 61 67    main portal pag
+          HCUtil:000 (08/22 19:21:40.302)[            main] 65 20 3c 62 3e 20 3c 61 20 68 72 65 66 20 3d 20   e <b> <a href = 
+          HCUtil:000 (08/22 19:21:40.302)[            main] 68 74 74 70 73 3a 2f 2f 6d 79 76 70 6e 2e 71 75   https://myvpn.qu
+          HCUtil:000 (08/22 19:21:40.302)[            main] 61 6c 63 6f 6d 6d 2e 63 6f 6d 3e 68 74 74 70 73   alcomm.com>https
+          HCUtil:000 (08/22 19:21:40.302)[            main] 3a 2f 2f 6d 79 76 70 6e 2e 71 75 61 6c 63 6f 6d   ://myvpn.qualcom
+          HCUtil:000 (08/22 19:21:40.302)[            main] 6d 2e 63 6f 6d 20 3c 2f 61 3e 3c 2f 62 3e 20 6f   m.com </a></b> o
+          HCUtil:000 (08/22 19:21:40.303)[            main] 72 20 63 6f 6e 74 61 63 74 20 49 54 20 43 75 73   r contact IT Cus
+          HCUtil:000 (08/22 19:21:40.303)[            main] 74 6f 6d 65 72 20 53 65 72 76 69 63 65 20 61 74   tomer Service at
+          HCUtil:000 (08/22 19:21:40.303)[            main] 20 38 35 38 2d 36 35 38 2d 34 33 35 37 2e 00 00    858-658-4357...
+          HCUtil:000 (08/22 19:21:40.303)[            main] 00 00 00 12 c0 00 00 10 00 00 05 83 00 00 00 02   ................
+          HCUtil:000 (08/22 19:21:40.303)[            main] 00 00 0c f3 80 00 00 10 00 00 05 83 00 00 00 01   ................
+          HCUtil:000 (08/22 19:21:40.303)[            main] TNCoHTTP: periodic check interval 720 min.
+          HCUtil:000 (08/22 19:21:40.303)[            main] TNCoHTTP: last session status `'
+          HCUtil:000 (08/22 19:21:40.303)[            main] TncHandshake: received remediation instructions for policy `Qualcomm Machine CertChecker'
+          HCUtil:000 (08/22 19:21:40.304)[            main] TncHandshake: message: `Are you using Linux? If yes, please go to <b> <a href = https://myvpn.qualcomm.com/home>https://myvpn.qualcomm.com/home </a></b> and use your token to authenticate.
+
+Otherwise, please go back to the main portal page <b> <a href = https://myvpn.qualcomm.com>https://myvpn.qualcomm.com </a></b> or contact IT Customer Service at 858-658-4357.'
+          HCUtil:000 (08/22 19:21:40.304)[            main] TncHandshake: reason: `'
+          HCUtil:000 (08/22 19:21:40.304)[            main] HostCheckerIMC: connection state changed to 3
+          HCUtil:000 (08/22 19:21:40.304)[            main] TncHandshake: recevied integrity result: 3
+          HCUtil:000 (08/22 19:21:40.305)[            main] HttpNAR: wait for connection to port 53833
+          HCUtil:000 (08/22 19:21:41.510)[            main] HttpNAR: read action `setcookie' from /127.0.0.1:43158
+          HCUtil:000 (08/22 19:21:41.511)[            main] HttpNAR: read DSPREAUTH cookie from /127.0.0.1:43158
+          HCUtil:000 (08/22 19:21:41.511)[            main] TncHandshake: New cookie value: DSPREAUTH=bcb2c059%3AtPr3U6zUDAABAAAA3cwDSlVGJLphvhTiTY24L3Tdq3zu8zPqRZXAVuA1fvauKvlxrc5ERI2JL4hB4E1PeEpuCZMxJBFgIYu85E66gS5GG%2FTc%2FgQnKDnbjL4UBXI7DZ4d8JTgE3xSlhWEPfZ2rJsyvxePXQWPDo%2FnmS8xI3inKGLod%2BLtJQTn3Q68ufleoDI%2FMZ0TJFWoub00JDspjV0ena1E%2FbVkq5myx3R3gS2WkkDXle9B6DHFzV%2BVD%2FOblBTyZxqRNKEKLF66BbagWWcUcv3p6BskX4eyqlxF0K5oxiKjwWJmhN6Gjb%2F8dt3scL4RyzdAMD0vvk11GvrAY%2B4l0YiT6ftugk9C5TnzXZwMsfNBou0LOlYuQ5UbEGzosiKvFx8x2PA0ZmWqV6eHCAK63pjHgwV9UdU3NZoCf%2FdTVPg6c3V58EGw9NOrvN9GPqrB2erfFsw2RvV0%2Bt3M
+          HCUtil:000 (08/22 19:21:41.524)[            main] HandshakeRetryRequestor new request will execute at Sat Aug 23 07:21:41 PDT 2014
+          HCUtil:000 (08/22 19:21:41.524)[            main] HttpNAR: wait for connection to port 53833
+          HCUtil:000 (08/22 20:10:42.825)[            main] HttpNAR: read action `setcookie' from /127.0.0.1:43338
+          HCUtil:000 (08/22 20:10:42.825)[            main] HttpNAR: read DSPREAUTH cookie from /127.0.0.1:43338
+          HCUtil:000 (08/22 20:10:42.825)[            main] TncHandshake: New cookie value: DSPREAUTH=bcb2c059%3AMQb4U2IeAgABAAAAudh2IFKf%2BuwPSmVxMM%2Fkv6N%2BjRd%2FippJGkQz3Y%2B%2BzH2yhR0B%2B99mGII3iGfjTbHAbOvGXobuTCzux%2FLT8XDDNOpjRx20puG4%2Fk%2FXpHkXsCsnDA6xW27PGIe%2FgEUf8Qt2K%2FZ%2FyktFmA2Nk%2BXORR72sYu2rurjDIt1NeoitAGaoRakA71rO4aW1d8FK0tMAIsR16b5jImMrqbNQ%2B87K9nPWBT76z4jA82ICagSNuZ9%2Ftdeb6AQ3FioUFGSrmaoxGwuPMhFQD2xyzthTTpSH%2F%2BPi4tTeH7fvueogB6FgQxChGRovDzlRn2RsFABAV1fRapyy%2FdFWPZkLDyYJ6LVQqWTRezWY7wvbDYIfVrEdBYiQb%2BjVTV0v6spBprOCuyOjWaWQy8MoRmk%2FH4NyR3Igta2yjUgWALw3jJMLGoPZTHoJz4eW9uk8BfXk3NM5sizl4zu
+          HCUtil:000 (08/22 20:10:42.825)[            main] HandshakeRetryRequestor new request will execute at Sat Aug 23 08:10:42 PDT 2014
+          HCUtil:000 (08/22 20:10:42.825)[            main] HttpNAR: wait for connection to port 53833

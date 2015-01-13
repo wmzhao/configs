@@ -1,0 +1,405 @@
+../common/Secure:1188 (08/22 21:13:31.413)[applet-SecureHCLauncher.class-2] (21:13:31:412)[SLA][thread applet-SecureHCLauncher.class-2] Entering SecureLauncherApplet.init() with action "install" on Fri Aug 22 21:13:31 PDT 2014
+../common/Secure:1188 (08/22 21:13:31.418)[applet-SecureHCLauncher.class-2] (21:13:31:418)[SLA][thread applet-SecureHCLauncher.class-2] New SecureLauncherApplet session, release [7.4.9]
+../common/Secure:1188 (08/22 21:13:31.418)[applet-SecureHCLauncher.class-2] (21:13:31:418)[SLA][thread applet-SecureHCLauncher.class-2] build number [30611] build comment [R9:2] JAR Size [201451]
+../common/Secure:1188 (08/22 21:13:31.422)[applet-SecureHCLauncher.class-2] (21:13:31:422)[SLA][thread applet-SecureHCLauncher.class-2] HTTP_USER_AGENT
+ -- [null] --
+../common/Secure:1188 (08/22 21:13:31.423)[applet-SecureHCLauncher.class-2] (21:13:31:422)[SLA][thread applet-SecureHCLauncher.class-2] file.encoding.pkg
+ -- [sun.io] --
+../common/Secure:1188 (08/22 21:13:31.423)[applet-SecureHCLauncher.class-2] (21:13:31:423)[SLA][thread applet-SecureHCLauncher.class-2] __applet_launched
+ -- [6822110468] --
+../common/Secure:1188 (08/22 21:13:31.423)[applet-SecureHCLauncher.class-2] (21:13:31:423)[SLA][thread applet-SecureHCLauncher.class-2] java.home
+ -- [/opt/java/jre] --
+../common/Secure:1188 (08/22 21:13:31.423)[applet-SecureHCLauncher.class-2] (21:13:31:423)[SLA][thread applet-SecureHCLauncher.class-2] deployment.security.askgrantdialog.notinca
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.423)[applet-SecureHCLauncher.class-2] (21:13:31:423)[SLA][thread applet-SecureHCLauncher.class-2] java.vendor.applet
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.423)[applet-SecureHCLauncher.class-2] (21:13:31:423)[SLA][thread applet-SecureHCLauncher.class-2] deployment.repository.askdownloaddialog.show
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.423)[applet-SecureHCLauncher.class-2] (21:13:31:423)[SLA][thread applet-SecureHCLauncher.class-2] deployment.system.security.trusted.jssecerts
+ -- [/opt/java/jre/lib/security/trusted.jssecerts] --
+../common/Secure:1188 (08/22 21:13:31.423)[applet-SecureHCLauncher.class-2] (21:13:31:423)[SLA][thread applet-SecureHCLauncher.class-2] sun.font.fontmanager
+ -- [sun.awt.X11FontManager] --
+../common/Secure:1188 (08/22 21:13:31.424)[applet-SecureHCLauncher.class-2] (21:13:31:424)[SLA][thread applet-SecureHCLauncher.class-2] deployment.console.startup.mode
+ -- [HIDE] --
+../common/Secure:1188 (08/22 21:13:31.424)[applet-SecureHCLauncher.class-2] (21:13:31:424)[SLA][thread applet-SecureHCLauncher.class-2] java.endorsed.dirs
+ -- [/opt/java/jre/lib/endorsed] --
+../common/Secure:1188 (08/22 21:13:31.424)[applet-SecureHCLauncher.class-2] (21:13:31:424)[SLA][thread applet-SecureHCLauncher.class-2] deployment.security.sandbox.jnlp.enhanced
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.424)[applet-SecureHCLauncher.class-2] (21:13:31:424)[SLA][thread applet-SecureHCLauncher.class-2] deployment.system.security.blacklist
+ -- [/opt/java/jre/lib/security/blacklist] --
+../common/Secure:1188 (08/22 21:13:31.424)[applet-SecureHCLauncher.class-2] (21:13:31:424)[SLA][thread applet-SecureHCLauncher.class-2] deployment.javaws.concurrentDownloads
+ -- [4] --
+../common/Secure:1188 (08/22 21:13:31.424)[applet-SecureHCLauncher.class-2] (21:13:31:424)[SLA][thread applet-SecureHCLauncher.class-2] deployment.security.sandbox.awtwarningwindow
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.424)[applet-SecureHCLauncher.class-2] (21:13:31:424)[SLA][thread applet-SecureHCLauncher.class-2] sun.os.patch.level
+ -- [unknown] --
+../common/Secure:1188 (08/22 21:13:31.425)[applet-SecureHCLauncher.class-2] (21:13:31:425)[SLA][thread applet-SecureHCLauncher.class-2] java.vendor.url
+ -- [http://java.oracle.com/] --
+../common/Secure:1188 (08/22 21:13:31.425)[applet-SecureHCLauncher.class-2] (21:13:31:425)[SLA][thread applet-SecureHCLauncher.class-2] acl.write.default
+ -- [] --
+../common/Secure:1188 (08/22 21:13:31.425)[applet-SecureHCLauncher.class-2] (21:13:31:425)[SLA][thread applet-SecureHCLauncher.class-2] deployment.security.blacklist.check
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.425)[applet-SecureHCLauncher.class-2] (21:13:31:425)[SLA][thread applet-SecureHCLauncher.class-2] deployment.user.security.trusted.jssecacerts
+ -- [/home/weimingz/.java/deployment/security/trusted.jssecacerts] --
+../common/Secure:1188 (08/22 21:13:31.425)[applet-SecureHCLauncher.class-2] (21:13:31:425)[SLA][thread applet-SecureHCLauncher.class-2] deployment.javaws.home.jnlp.url
+ -- [http://java.sun.com/products/javawebstart] --
+../common/Secure:1188 (08/22 21:13:31.425)[applet-SecureHCLauncher.class-2] (21:13:31:425)[SLA][thread applet-SecureHCLauncher.class-2] java.version
+ -- [1.7.0_05] --
+../common/Secure:1188 (08/22 21:13:31.425)[applet-SecureHCLauncher.class-2] (21:13:31:425)[SLA][thread applet-SecureHCLauncher.class-2] deployment.javapi.trace.filename
+ -- [] --
+../common/Secure:1188 (08/22 21:13:31.426)[applet-SecureHCLauncher.class-2] (21:13:31:426)[SLA][thread applet-SecureHCLauncher.class-2] package.restrict.access.org.mozilla.jss
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.426)[applet-SecureHCLauncher.class-2] (21:13:31:426)[SLA][thread applet-SecureHCLauncher.class-2] deployment.max.output.file.size
+ -- [10] --
+../common/Secure:1188 (08/22 21:13:31.426)[applet-SecureHCLauncher.class-2] (21:13:31:426)[SLA][thread applet-SecureHCLauncher.class-2] java.vendor.url.bug
+ -- [http://bugreport.sun.com/bugreport/] --
+../common/Secure:1188 (08/22 21:13:31.426)[applet-SecureHCLauncher.class-2] (21:13:31:426)[SLA][thread applet-SecureHCLauncher.class-2] deployment.user.security.trusted.cacerts
+ -- [/home/weimingz/.java/deployment/security/trusted.cacerts] --
+../common/Secure:1188 (08/22 21:13:31.426)[applet-SecureHCLauncher.class-2] (21:13:31:426)[SLA][thread applet-SecureHCLauncher.class-2] java.version.applet
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.426)[applet-SecureHCLauncher.class-2] (21:13:31:426)[SLA][thread applet-SecureHCLauncher.class-2] java.protocol.handler.pkgs
+ -- [sun.plugin.net.protocol|com.sun.deploy.net.protocol] --
+../common/Secure:1188 (08/22 21:13:31.426)[applet-SecureHCLauncher.class-2] (21:13:31:426)[SLA][thread applet-SecureHCLauncher.class-2] deployment.user.tmp
+ -- [/home/weimingz/.java/deployment/tmp] --
+../common/Secure:1188 (08/22 21:13:31.427)[applet-SecureHCLauncher.class-2] (21:13:31:426)[SLA][thread applet-SecureHCLauncher.class-2] user.name
+ -- [weimingz] --
+../common/Secure:1188 (08/22 21:13:31.427)[applet-SecureHCLauncher.class-2] (21:13:31:427)[SLA][thread applet-SecureHCLauncher.class-2] deployment.user.logdir
+ -- [/home/weimingz/.java/deployment/log] --
+../common/Secure:1188 (08/22 21:13:31.427)[applet-SecureHCLauncher.class-2] (21:13:31:427)[SLA][thread applet-SecureHCLauncher.class-2] sun.io.unicode.encoding
+ -- [UnicodeLittle] --
+../common/Secure:1188 (08/22 21:13:31.427)[applet-SecureHCLauncher.class-2] (21:13:31:427)[SLA][thread applet-SecureHCLauncher.class-2] deployment.browser.path
+ -- [/usr/bin/firefox] --
+../common/Secure:1188 (08/22 21:13:31.427)[applet-SecureHCLauncher.class-2] (21:13:31:427)[SLA][thread applet-SecureHCLauncher.class-2] sun.net.client.defaultConnectTimeout
+ -- [120000] --
+../common/Secure:1188 (08/22 21:13:31.427)[applet-SecureHCLauncher.class-2] (21:13:31:427)[SLA][thread applet-SecureHCLauncher.class-2] deployment.cache.max.size
+ -- [-1] --
+../common/Secure:1188 (08/22 21:13:31.427)[applet-SecureHCLauncher.class-2] (21:13:31:427)[SLA][thread applet-SecureHCLauncher.class-2] sun.jnu.encoding
+ -- [ANSI_X3.4-1968] --
+../common/Secure:1188 (08/22 21:13:31.427)[applet-SecureHCLauncher.class-2] (21:13:31:427)[SLA][thread applet-SecureHCLauncher.class-2] java.runtime.name
+ -- [Java(TM) SE Runtime Environment] --
+../common/Secure:1188 (08/22 21:13:31.428)[applet-SecureHCLauncher.class-2] (21:13:31:428)[SLA][thread applet-SecureHCLauncher.class-2] javaplugin.version
+ -- [10.0.0.05] --
+../common/Secure:1188 (08/22 21:13:31.428)[applet-SecureHCLauncher.class-2] (21:13:31:428)[SLA][thread applet-SecureHCLauncher.class-2] deployment.system.security.trusted.publishers
+ -- [/opt/java/jre/lib/security/trusted.publishers] --
+../common/Secure:1188 (08/22 21:13:31.428)[applet-SecureHCLauncher.class-2] (21:13:31:428)[SLA][thread applet-SecureHCLauncher.class-2] java.vendor.url.applet
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.428)[applet-SecureHCLauncher.class-2] (21:13:31:428)[SLA][thread applet-SecureHCLauncher.class-2] browser.vendor
+ -- [Oracle] --
+../common/Secure:1188 (08/22 21:13:31.428)[applet-SecureHCLauncher.class-2] (21:13:31:428)[SLA][thread applet-SecureHCLauncher.class-2] os.version.applet
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.428)[applet-SecureHCLauncher.class-2] (21:13:31:428)[SLA][thread applet-SecureHCLauncher.class-2] os.name.applet
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.428)[applet-SecureHCLauncher.class-2] (21:13:31:428)[SLA][thread applet-SecureHCLauncher.class-2] java.specification.name
+ -- [Java Platform API Specification] --
+../common/Secure:1188 (08/22 21:13:31.429)[applet-SecureHCLauncher.class-2] (21:13:31:429)[SLA][thread applet-SecureHCLauncher.class-2] deployment.security.mixcode
+ -- [ENABLE] --
+../common/Secure:1188 (08/22 21:13:31.429)[applet-SecureHCLauncher.class-2] (21:13:31:429)[SLA][thread applet-SecureHCLauncher.class-2] user.timezone
+ -- [America/Los_Angeles] --
+../common/Secure:1188 (08/22 21:13:31.429)[applet-SecureHCLauncher.class-2] (21:13:31:429)[SLA][thread applet-SecureHCLauncher.class-2] deployment.security.SSLv3
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.429)[applet-SecureHCLauncher.class-2] (21:13:31:429)[SLA][thread applet-SecureHCLauncher.class-2] deployment.proxy.override.hosts
+ -- [] --
+../common/Secure:1188 (08/22 21:13:31.429)[applet-SecureHCLauncher.class-2] (21:13:31:429)[SLA][thread applet-SecureHCLauncher.class-2] path.separator
+ -- [:] --
+../common/Secure:1188 (08/22 21:13:31.429)[applet-SecureHCLauncher.class-2] (21:13:31:429)[SLA][thread applet-SecureHCLauncher.class-2] deployment.javaws.installURL
+ -- [http://java.sun.com/products/autodl/j2se] --
+../common/Secure:1188 (08/22 21:13:31.429)[applet-SecureHCLauncher.class-2] (21:13:31:429)[SLA][thread applet-SecureHCLauncher.class-2] __jvm_launched
+ -- [6822150889] --
+../common/Secure:1188 (08/22 21:13:31.429)[applet-SecureHCLauncher.class-2] (21:13:31:429)[SLA][thread applet-SecureHCLauncher.class-2] file.encoding
+ -- [ANSI_X3.4-1968] --
+../common/Secure:1188 (08/22 21:13:31.429)[applet-SecureHCLauncher.class-2] (21:13:31:429)[SLA][thread applet-SecureHCLauncher.class-2] deployment.user.security.trusted.publishers
+ -- [/home/weimingz/.java/deployment/security/trusted.publishers] --
+../common/Secure:1188 (08/22 21:13:31.430)[applet-SecureHCLauncher.class-2] (21:13:31:430)[SLA][thread applet-SecureHCLauncher.class-2] sun.java.command
+ -- [sun.plugin2.main.client.PluginMain write_pipe_name=/tmp/.com.sun.deploy.net.socket.5426.8203326635196445706.AF_UNIX] --
+../common/Secure:1188 (08/22 21:13:31.430)[applet-SecureHCLauncher.class-2] (21:13:31:430)[SLA][thread applet-SecureHCLauncher.class-2] browser.version
+ -- [1.1] --
+../common/Secure:1188 (08/22 21:13:31.430)[applet-SecureHCLauncher.class-2] (21:13:31:430)[SLA][thread applet-SecureHCLauncher.class-2] deployment.javapi.log.filename
+ -- [] --
+../common/Secure:1188 (08/22 21:13:31.430)[applet-SecureHCLauncher.class-2] (21:13:31:430)[SLA][thread applet-SecureHCLauncher.class-2] deployment.user.cachedir
+ -- [/home/weimingz/.java/deployment/cache] --
+../common/Secure:1188 (08/22 21:13:31.430)[applet-SecureHCLauncher.class-2] (21:13:31:430)[SLA][thread applet-SecureHCLauncher.class-2] javaplugin.vm.options
+ -- [] --
+../common/Secure:1188 (08/22 21:13:31.430)[applet-SecureHCLauncher.class-2] (21:13:31:430)[SLA][thread applet-SecureHCLauncher.class-2] deployment.browser.args
+ -- [-remote openURL(%u,new-window)] --
+../common/Secure:1188 (08/22 21:13:31.430)[applet-SecureHCLauncher.class-2] (21:13:31:430)[SLA][thread applet-SecureHCLauncher.class-2] deployment.javaws.cache.update
+ -- [false] --
+../common/Secure:1188 (08/22 21:13:31.430)[applet-SecureHCLauncher.class-2] (21:13:31:430)[SLA][thread applet-SecureHCLauncher.class-2] deployment.security.validation.crl
+ -- [false] --
+../common/Secure:1188 (08/22 21:13:31.431)[applet-SecureHCLauncher.class-2] (21:13:31:431)[SLA][thread applet-SecureHCLauncher.class-2] java.io.tmpdir
+ -- [/tmp] --
+../common/Secure:1188 (08/22 21:13:31.431)[applet-SecureHCLauncher.class-2] (21:13:31:431)[SLA][thread applet-SecureHCLauncher.class-2] package.restrict.definition.java
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.431)[applet-SecureHCLauncher.class-2] (21:13:31:431)[SLA][thread applet-SecureHCLauncher.class-2] deployment.version
+ -- [6.0] --
+../common/Secure:1188 (08/22 21:13:31.431)[applet-SecureHCLauncher.class-2] (21:13:31:431)[SLA][thread applet-SecureHCLauncher.class-2] sun.awt.warmup
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.431)[applet-SecureHCLauncher.class-2] (21:13:31:431)[SLA][thread applet-SecureHCLauncher.class-2] user.language
+ -- [en] --
+../common/Secure:1188 (08/22 21:13:31.432)[applet-SecureHCLauncher.class-2] (21:13:31:432)[SLA][thread applet-SecureHCLauncher.class-2] package.restrict.access.netscape
+ -- [false] --
+../common/Secure:1188 (08/22 21:13:31.432)[applet-SecureHCLauncher.class-2] (21:13:31:432)[SLA][thread applet-SecureHCLauncher.class-2] package.restrict.access.com.sun.deploy
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.432)[applet-SecureHCLauncher.class-2] (21:13:31:432)[SLA][thread applet-SecureHCLauncher.class-2] deployment.baseline.url
+ -- [] --
+../common/Secure:1188 (08/22 21:13:31.432)[applet-SecureHCLauncher.class-2] (21:13:31:432)[SLA][thread applet-SecureHCLauncher.class-2] line.separator
+ -- [
+] --
+../common/Secure:1188 (08/22 21:13:31.432)[applet-SecureHCLauncher.class-2] (21:13:31:432)[SLA][thread applet-SecureHCLauncher.class-2] deployment.user.security.policy
+ -- [file://home/weimingz/.java/deployment/security/java.policy] --
+../common/Secure:1188 (08/22 21:13:31.432)[applet-SecureHCLauncher.class-2] (21:13:31:432)[SLA][thread applet-SecureHCLauncher.class-2] java.vm.info
+ -- [mixed mode] --
+../common/Secure:1188 (08/22 21:13:31.432)[applet-SecureHCLauncher.class-2] (21:13:31:432)[SLA][thread applet-SecureHCLauncher.class-2] java.vm.specification.name
+ -- [Java Virtual Machine Specification] --
+../common/Secure:1188 (08/22 21:13:31.432)[applet-SecureHCLauncher.class-2] (21:13:31:432)[SLA][thread applet-SecureHCLauncher.class-2] sun.net.http.errorstream.enableBuffering
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.432)[applet-SecureHCLauncher.class-2] (21:13:31:432)[SLA][thread applet-SecureHCLauncher.class-2] deployment.max.output.files
+ -- [5] --
+../common/Secure:1188 (08/22 21:13:31.433)[applet-SecureHCLauncher.class-2] (21:13:31:432)[SLA][thread applet-SecureHCLauncher.class-2] java.class.version.applet
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.433)[applet-SecureHCLauncher.class-2] (21:13:31:433)[SLA][thread applet-SecureHCLauncher.class-2] deployment.update.mime.types
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.433)[applet-SecureHCLauncher.class-2] (21:13:31:433)[SLA][thread applet-SecureHCLauncher.class-2] deployment.security.browser.keystore.use
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.433)[applet-SecureHCLauncher.class-2] (21:13:31:433)[SLA][thread applet-SecureHCLauncher.class-2] deployment.security.jsse.hostmismatch.warning
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.433)[applet-SecureHCLauncher.class-2] (21:13:31:433)[SLA][thread applet-SecureHCLauncher.class-2] deployment.system.security.cacerts
+ -- [/opt/java/jre/lib/security/cacerts] --
+../common/Secure:1188 (08/22 21:13:31.433)[applet-SecureHCLauncher.class-2] (21:13:31:433)[SLA][thread applet-SecureHCLauncher.class-2] deployment.proxy.type
+ -- [3] --
+../common/Secure:1188 (08/22 21:13:31.433)[applet-SecureHCLauncher.class-2] (21:13:31:433)[SLA][thread applet-SecureHCLauncher.class-2] deployment.user.security.trusted.jssecerts
+ -- [/home/weimingz/.java/deployment/security/trusted.jssecerts] --
+../common/Secure:1188 (08/22 21:13:31.433)[applet-SecureHCLauncher.class-2] (21:13:31:433)[SLA][thread applet-SecureHCLauncher.class-2] deployment.security.password.cache
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.433)[applet-SecureHCLauncher.class-2] (21:13:31:433)[SLA][thread applet-SecureHCLauncher.class-2] deployment.javaws.shortcut
+ -- [ASK_IF_HINTED] --
+../common/Secure:1188 (08/22 21:13:31.433)[applet-SecureHCLauncher.class-2] (21:13:31:433)[SLA][thread applet-SecureHCLauncher.class-2] java.awt.printerjob
+ -- [sun.print.PSPrinterJob] --
+../common/Secure:1188 (08/22 21:13:31.434)[applet-SecureHCLauncher.class-2] (21:13:31:434)[SLA][thread applet-SecureHCLauncher.class-2] deployment.security.https.warning.show
+ -- [false] --
+../common/Secure:1188 (08/22 21:13:31.434)[applet-SecureHCLauncher.class-2] (21:13:31:434)[SLA][thread applet-SecureHCLauncher.class-2] deployment.javaws.autodownload
+ -- [ALWAYS] --
+../common/Secure:1188 (08/22 21:13:31.434)[applet-SecureHCLauncher.class-2] (21:13:31:434)[SLA][thread applet-SecureHCLauncher.class-2] deployment.proxy.bypass.local
+ -- [false] --
+../common/Secure:1188 (08/22 21:13:31.434)[applet-SecureHCLauncher.class-2] (21:13:31:434)[SLA][thread applet-SecureHCLauncher.class-2] http.auth.serializeRequests
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.434)[applet-SecureHCLauncher.class-2] (21:13:31:434)[SLA][thread applet-SecureHCLauncher.class-2] line.separator.applet
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.434)[applet-SecureHCLauncher.class-2] (21:13:31:434)[SLA][thread applet-SecureHCLauncher.class-2] path.separator.applet
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.434)[applet-SecureHCLauncher.class-2] (21:13:31:434)[SLA][thread applet-SecureHCLauncher.class-2] deployment.javaws.logFileName
+ -- [] --
+../common/Secure:1188 (08/22 21:13:31.434)[applet-SecureHCLauncher.class-2] (21:13:31:434)[SLA][thread applet-SecureHCLauncher.class-2] os.name
+ -- [Linux] --
+../common/Secure:1188 (08/22 21:13:31.434)[applet-SecureHCLauncher.class-2] (21:13:31:434)[SLA][thread applet-SecureHCLauncher.class-2] java.specification.vendor
+ -- [Oracle Corporation] --
+../common/Secure:1188 (08/22 21:13:31.435)[applet-SecureHCLauncher.class-2] (21:13:31:435)[SLA][thread applet-SecureHCLauncher.class-2] deployment.javaws.uninstall.shortcut
+ -- [false] --
+../common/Secure:1188 (08/22 21:13:31.435)[applet-SecureHCLauncher.class-2] (21:13:31:435)[SLA][thread applet-SecureHCLauncher.class-2] deployment.system.security.jssecacerts
+ -- [/opt/java/jre/lib/security/jssecacerts] --
+../common/Secure:1188 (08/22 21:13:31.435)[applet-SecureHCLauncher.class-2] (21:13:31:435)[SLA][thread applet-SecureHCLauncher.class-2] deployment.system.security.oldcacerts
+ -- [/opt/java/jre/lib/security/cacerts] --
+../common/Secure:1188 (08/22 21:13:31.435)[applet-SecureHCLauncher.class-2] (21:13:31:435)[SLA][thread applet-SecureHCLauncher.class-2] java.vm.name
+ -- [Java HotSpot(TM) Client VM] --
+../common/Secure:1188 (08/22 21:13:31.435)[applet-SecureHCLauncher.class-2] (21:13:31:435)[SLA][thread applet-SecureHCLauncher.class-2] java.quick.starter
+ -- [false] --
+../common/Secure:1188 (08/22 21:13:31.435)[applet-SecureHCLauncher.class-2] (21:13:31:435)[SLA][thread applet-SecureHCLauncher.class-2] deployment.security.askgrantdialog.show
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.435)[applet-SecureHCLauncher.class-2] (21:13:31:435)[SLA][thread applet-SecureHCLauncher.class-2] sun.awt.enableExtraMouseButtons
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.435)[applet-SecureHCLauncher.class-2] (21:13:31:435)[SLA][thread applet-SecureHCLauncher.class-2] java.library.path
+ -- [/usr/lib/firefox:/usr/java/packages/lib/i386:/lib:/usr/lib] --
+../common/Secure:1188 (08/22 21:13:31.435)[applet-SecureHCLauncher.class-2] (21:13:31:435)[SLA][thread applet-SecureHCLauncher.class-2] os.arch.applet
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.435)[applet-SecureHCLauncher.class-2] (21:13:31:435)[SLA][thread applet-SecureHCLauncher.class-2] java.class.version
+ -- [51.0] --
+../common/Secure:1188 (08/22 21:13:31.436)[applet-SecureHCLauncher.class-2] (21:13:31:436)[SLA][thread applet-SecureHCLauncher.class-2] deployment.control.panel.log
+ -- [false] --
+../common/Secure:1188 (08/22 21:13:31.436)[applet-SecureHCLauncher.class-2] (21:13:31:436)[SLA][thread applet-SecureHCLauncher.class-2] browser
+ -- [sun.plugin] --
+../common/Secure:1188 (08/22 21:13:31.436)[applet-SecureHCLauncher.class-2] (21:13:31:436)[SLA][thread applet-SecureHCLauncher.class-2] deployment.system.security.trusted.clientauthcerts
+ -- [/opt/java/jre/lib/security/trusted.clientcerts] --
+../common/Secure:1188 (08/22 21:13:31.436)[applet-SecureHCLauncher.class-2] (21:13:31:436)[SLA][thread applet-SecureHCLauncher.class-2] deployment.trace
+ -- [false] --
+../common/Secure:1188 (08/22 21:13:31.436)[applet-SecureHCLauncher.class-2] (21:13:31:436)[SLA][thread applet-SecureHCLauncher.class-2] deployment.security.clientauth.keystore.auto
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.436)[applet-SecureHCLauncher.class-2] (21:13:31:436)[SLA][thread applet-SecureHCLauncher.class-2] deployment.security.validation.ocsp
+ -- [false] --
+../common/Secure:1188 (08/22 21:13:31.436)[applet-SecureHCLauncher.class-2] (21:13:31:436)[SLA][thread applet-SecureHCLauncher.class-2] deployment.javapi.cache.update
+ -- [false] --
+../common/Secure:1188 (08/22 21:13:31.436)[applet-SecureHCLauncher.class-2] (21:13:31:436)[SLA][thread applet-SecureHCLauncher.class-2] deployment.cache.jarcompression
+ -- [0] --
+../common/Secure:1188 (08/22 21:13:31.436)[applet-SecureHCLauncher.class-2] (21:13:31:436)[SLA][thread applet-SecureHCLauncher.class-2] package.restrict.definition.netscape
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.437)[applet-SecureHCLauncher.class-2] (21:13:31:437)[SLA][thread applet-SecureHCLauncher.class-2] package.restrict.definition.sun
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.437)[applet-SecureHCLauncher.class-2] (21:13:31:437)[SLA][thread applet-SecureHCLauncher.class-2] deployment.system.security.trusted.libraries
+ -- [/opt/java/jre/lib/security/trusted.libraries] --
+../common/Secure:1188 (08/22 21:13:31.437)[applet-SecureHCLauncher.class-2] (21:13:31:437)[SLA][thread applet-SecureHCLauncher.class-2] package.restrict.definition.com.sun.deploy
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.437)[applet-SecureHCLauncher.class-2] (21:13:31:437)[SLA][thread applet-SecureHCLauncher.class-2] deployment.security.validation.ocsp.publisher
+ -- [false] --
+../common/Secure:1188 (08/22 21:13:31.437)[applet-SecureHCLauncher.class-2] (21:13:31:437)[SLA][thread applet-SecureHCLauncher.class-2] deployment.javaws.update.timeout
+ -- [1500] --
+../common/Secure:1188 (08/22 21:13:31.437)[applet-SecureHCLauncher.class-2] (21:13:31:437)[SLA][thread applet-SecureHCLauncher.class-2] sun.boot.library.path
+ -- [/opt/java/jre/lib/i386] --
+../common/Secure:1188 (08/22 21:13:31.437)[applet-SecureHCLauncher.class-2] (21:13:31:437)[SLA][thread applet-SecureHCLauncher.class-2] sun.management.compiler
+ -- [HotSpot Client Compiler] --
+../common/Secure:1188 (08/22 21:13:31.437)[applet-SecureHCLauncher.class-2] (21:13:31:437)[SLA][thread applet-SecureHCLauncher.class-2] package.restrict.definition.org.mozilla.jss
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.437)[applet-SecureHCLauncher.class-2] (21:13:31:437)[SLA][thread applet-SecureHCLauncher.class-2] java.awt.graphicsenv
+ -- [sun.awt.X11GraphicsEnvironment] --
+../common/Secure:1188 (08/22 21:13:31.438)[applet-SecureHCLauncher.class-2] (21:13:31:438)[SLA][thread applet-SecureHCLauncher.class-2] deployment.user.extdir
+ -- [/home/weimingz/.java/deployment/ext] --
+../common/Secure:1188 (08/22 21:13:31.438)[applet-SecureHCLauncher.class-2] (21:13:31:438)[SLA][thread applet-SecureHCLauncher.class-2] deployment.system.security.trusted.certs
+ -- [/opt/java/jre/lib/security/trusted.certs] --
+../common/Secure:1188 (08/22 21:13:31.438)[applet-SecureHCLauncher.class-2] (21:13:31:438)[SLA][thread applet-SecureHCLauncher.class-2] deployment.system.security.oldjssecacerts
+ -- [/opt/java/jre/lib/security/jssecacerts] --
+../common/Secure:1188 (08/22 21:13:31.438)[applet-SecureHCLauncher.class-2] (21:13:31:438)[SLA][thread applet-SecureHCLauncher.class-2] deployment.proxy.same
+ -- [false] --
+../common/Secure:1188 (08/22 21:13:31.438)[applet-SecureHCLauncher.class-2] (21:13:31:438)[SLA][thread applet-SecureHCLauncher.class-2] deployment.security.authenticator
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.438)[applet-SecureHCLauncher.class-2] (21:13:31:438)[SLA][thread applet-SecureHCLauncher.class-2] deployment.javaws.traceFileName
+ -- [] --
+../common/Secure:1188 (08/22 21:13:31.438)[applet-SecureHCLauncher.class-2] (21:13:31:438)[SLA][thread applet-SecureHCLauncher.class-2] deployment.user.security.trusted.clientauthcerts
+ -- [/home/weimingz/.java/deployment/security/trusted.clientcerts] --
+../common/Secure:1188 (08/22 21:13:31.438)[applet-SecureHCLauncher.class-2] (21:13:31:438)[SLA][thread applet-SecureHCLauncher.class-2] java.vm.specification.version
+ -- [1.7] --
+../common/Secure:1188 (08/22 21:13:31.438)[applet-SecureHCLauncher.class-2] (21:13:31:438)[SLA][thread applet-SecureHCLauncher.class-2] deployment.user.security.blacklist
+ -- [/home/weimingz/.java/deployment/security/blacklist] --
+../common/Secure:1188 (08/22 21:13:31.439)[applet-SecureHCLauncher.class-2] (21:13:31:439)[SLA][thread applet-SecureHCLauncher.class-2] awt.toolkit
+ -- [sun.awt.X11.XToolkit] --
+../common/Secure:1188 (08/22 21:13:31.439)[applet-SecureHCLauncher.class-2] (21:13:31:439)[SLA][thread applet-SecureHCLauncher.class-2] sun.cpu.isalist
+ -- [] --
+../common/Secure:1188 (08/22 21:13:31.439)[applet-SecureHCLauncher.class-2] (21:13:31:439)[SLA][thread applet-SecureHCLauncher.class-2] java.ext.dirs
+ -- [/opt/java/jre/lib/ext:/usr/java/packages/lib/ext] --
+../common/Secure:1188 (08/22 21:13:31.439)[applet-SecureHCLauncher.class-2] (21:13:31:439)[SLA][thread applet-SecureHCLauncher.class-2] acl.read.default
+ -- [] --
+../common/Secure:1188 (08/22 21:13:31.439)[applet-SecureHCLauncher.class-2] (21:13:31:439)[SLA][thread applet-SecureHCLauncher.class-2] http.agent
+ -- [Mozilla/4.0 (Linux 3.15.8-1-ARCH)] --
+../common/Secure:1188 (08/22 21:13:31.439)[applet-SecureHCLauncher.class-2] (21:13:31:439)[SLA][thread applet-SecureHCLauncher.class-2] os.version
+ -- [3.15.8-1-ARCH] --
+../common/Secure:1188 (08/22 21:13:31.439)[applet-SecureHCLauncher.class-2] (21:13:31:439)[SLA][thread applet-SecureHCLauncher.class-2] user.home
+ -- [/home/weimingz] --
+../common/Secure:1188 (08/22 21:13:31.439)[applet-SecureHCLauncher.class-2] (21:13:31:439)[SLA][thread applet-SecureHCLauncher.class-2] deployment.user.security.trusted.certs
+ -- [/home/weimingz/.java/deployment/security/trusted.certs] --
+../common/Secure:1188 (08/22 21:13:31.439)[applet-SecureHCLauncher.class-2] (21:13:31:439)[SLA][thread applet-SecureHCLauncher.class-2] trustProxy
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.439)[applet-SecureHCLauncher.class-2] (21:13:31:439)[SLA][thread applet-SecureHCLauncher.class-2] java.vm.vendor
+ -- [Oracle Corporation] --
+../common/Secure:1188 (08/22 21:13:31.440)[applet-SecureHCLauncher.class-2] (21:13:31:440)[SLA][thread applet-SecureHCLauncher.class-2] deployment.javafx.mode.enabled
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.440)[applet-SecureHCLauncher.class-2] (21:13:31:440)[SLA][thread applet-SecureHCLauncher.class-2] deployment.javapi.lifecycle.exception
+ -- [false] --
+../common/Secure:1188 (08/22 21:13:31.440)[applet-SecureHCLauncher.class-2] (21:13:31:440)[SLA][thread applet-SecureHCLauncher.class-2] deployment.javaws.install
+ -- [IF_HINT] --
+../common/Secure:1188 (08/22 21:13:31.440)[applet-SecureHCLauncher.class-2] (21:13:31:440)[SLA][thread applet-SecureHCLauncher.class-2] package.restrict.access.sun
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.440)[applet-SecureHCLauncher.class-2] (21:13:31:440)[SLA][thread applet-SecureHCLauncher.class-2] user.dir
+ -- [/home/weimingz] --
+../common/Secure:1188 (08/22 21:13:31.440)[applet-SecureHCLauncher.class-2] (21:13:31:440)[SLA][thread applet-SecureHCLauncher.class-2] deployment.cache.enabled
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.440)[applet-SecureHCLauncher.class-2] (21:13:31:440)[SLA][thread applet-SecureHCLauncher.class-2] deployment.java.update.check
+ -- [false] --
+../common/Secure:1188 (08/22 21:13:31.440)[applet-SecureHCLauncher.class-2] (21:13:31:440)[SLA][thread applet-SecureHCLauncher.class-2] sun.cpu.endian
+ -- [little] --
+../common/Secure:1188 (08/22 21:13:31.441)[applet-SecureHCLauncher.class-2] (21:13:31:440)[SLA][thread applet-SecureHCLauncher.class-2] acl.write
+ -- [+] --
+../common/Secure:1188 (08/22 21:13:31.441)[applet-SecureHCLauncher.class-2] (21:13:31:441)[SLA][thread applet-SecureHCLauncher.class-2] deployment.security.notinca.warning
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.441)[applet-SecureHCLauncher.class-2] (21:13:31:441)[SLA][thread applet-SecureHCLauncher.class-2] java.vm.version
+ -- [23.1-b03] --
+../common/Secure:1188 (08/22 21:13:31.441)[applet-SecureHCLauncher.class-2] (21:13:31:441)[SLA][thread applet-SecureHCLauncher.class-2] deployment.security.trusted.policy
+ -- [] --
+../common/Secure:1188 (08/22 21:13:31.441)[applet-SecureHCLauncher.class-2] (21:13:31:441)[SLA][thread applet-SecureHCLauncher.class-2] java.class.path
+ -- [/opt/java/jre/classes] --
+../common/Secure:1188 (08/22 21:13:31.441)[applet-SecureHCLauncher.class-2] (21:13:31:441)[SLA][thread applet-SecureHCLauncher.class-2] os.arch
+ -- [i386] --
+../common/Secure:1188 (08/22 21:13:31.441)[applet-SecureHCLauncher.class-2] (21:13:31:441)[SLA][thread applet-SecureHCLauncher.class-2] deployment.javapi.stop.timeout
+ -- [200] --
+../common/Secure:1188 (08/22 21:13:31.441)[applet-SecureHCLauncher.class-2] (21:13:31:441)[SLA][thread applet-SecureHCLauncher.class-2] deployment.mime.types.use.default
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.441)[applet-SecureHCLauncher.class-2] (21:13:31:441)[SLA][thread applet-SecureHCLauncher.class-2] deployment.security.pretrust.list
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.442)[applet-SecureHCLauncher.class-2] (21:13:31:442)[SLA][thread applet-SecureHCLauncher.class-2] javaplugin.nodotversion
+ -- [1000] --
+../common/Secure:1188 (08/22 21:13:31.442)[applet-SecureHCLauncher.class-2] (21:13:31:442)[SLA][thread applet-SecureHCLauncher.class-2] java.rmi.server.RMIClassLoaderSpi
+ -- [sun.plugin2.applet.JNLP2RMIClassLoaderSpi] --
+../common/Secure:1188 (08/22 21:13:31.442)[applet-SecureHCLauncher.class-2] (21:13:31:442)[SLA][thread applet-SecureHCLauncher.class-2] javawebstart.version
+ -- [javaws-10.0.0.05] --
+../common/Secure:1188 (08/22 21:13:31.442)[applet-SecureHCLauncher.class-2] (21:13:31:442)[SLA][thread applet-SecureHCLauncher.class-2] deployment.capture.mime.types
+ -- [false] --
+../common/Secure:1188 (08/22 21:13:31.442)[applet-SecureHCLauncher.class-2] (21:13:31:442)[SLA][thread applet-SecureHCLauncher.class-2] deployment.security.TLSv1
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.442)[applet-SecureHCLauncher.class-2] (21:13:31:442)[SLA][thread applet-SecureHCLauncher.class-2] sun.java.launcher
+ -- [SUN_STANDARD] --
+../common/Secure:1188 (08/22 21:13:31.442)[applet-SecureHCLauncher.class-2] (21:13:31:442)[SLA][thread applet-SecureHCLauncher.class-2] deployment.jpi.mode.new
+ -- [false] --
+../common/Secure:1188 (08/22 21:13:31.442)[applet-SecureHCLauncher.class-2] (21:13:31:442)[SLA][thread applet-SecureHCLauncher.class-2] deployment.insecure.jres
+ -- [PROMPT] --
+../common/Secure:1188 (08/22 21:13:31.442)[applet-SecureHCLauncher.class-2] (21:13:31:442)[SLA][thread applet-SecureHCLauncher.class-2] deployment.javaws.muffin.max
+ -- [256] --
+../common/Secure:1188 (08/22 21:13:31.442)[applet-SecureHCLauncher.class-2] (21:13:31:442)[SLA][thread applet-SecureHCLauncher.class-2] https.protocols
+ -- [TLSv1,SSLv3] --
+../common/Secure:1188 (08/22 21:13:31.442)[applet-SecureHCLauncher.class-2] (21:13:31:442)[SLA][thread applet-SecureHCLauncher.class-2] deployment.log
+ -- [false] --
+../common/Secure:1188 (08/22 21:13:31.443)[applet-SecureHCLauncher.class-2] (21:13:31:442)[SLA][thread applet-SecureHCLauncher.class-2] java.vm.specification.vendor
+ -- [Oracle Corporation] --
+../common/Secure:1188 (08/22 21:13:31.443)[applet-SecureHCLauncher.class-2] (21:13:31:443)[SLA][thread applet-SecureHCLauncher.class-2] file.separator
+ -- [/] --
+../common/Secure:1188 (08/22 21:13:31.443)[applet-SecureHCLauncher.class-2] (21:13:31:443)[SLA][thread applet-SecureHCLauncher.class-2] java.runtime.version
+ -- [1.7.0_05-b05] --
+../common/Secure:1188 (08/22 21:13:31.443)[applet-SecureHCLauncher.class-2] (21:13:31:443)[SLA][thread applet-SecureHCLauncher.class-2] sun.boot.class.path
+ -- [/opt/java/jre/lib/resources.jar:/opt/java/jre/lib/rt.jar:/opt/java/jre/lib/sunrsasign.jar:/opt/java/jre/lib/jsse.jar:/opt/java/jre/lib/jce.jar:/opt/java/jre/lib/charsets.jar:/opt/java/jre/lib/jfr.jar:/opt/java/jre/classes:/opt/java/jre/lib/deploy.jar:/opt/java/jre/lib/javaws.jar:/opt/java/jre/lib/plugin.jar] --
+../common/Secure:1188 (08/22 21:13:31.443)[applet-SecureHCLauncher.class-2] (21:13:31:443)[SLA][thread applet-SecureHCLauncher.class-2] deployment.user.security.trusted.libraries
+ -- [/home/weimingz/.java/deployment/security/trusted.libraries] --
+../common/Secure:1188 (08/22 21:13:31.443)[applet-SecureHCLauncher.class-2] (21:13:31:443)[SLA][thread applet-SecureHCLauncher.class-2] user.country
+ -- [US] --
+../common/Secure:1188 (08/22 21:13:31.443)[applet-SecureHCLauncher.class-2] (21:13:31:443)[SLA][thread applet-SecureHCLauncher.class-2] deployment.security.expired.warning
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.443)[applet-SecureHCLauncher.class-2] (21:13:31:443)[SLA][thread applet-SecureHCLauncher.class-2] acl.read
+ -- [+] --
+../common/Secure:1188 (08/22 21:13:31.443)[applet-SecureHCLauncher.class-2] (21:13:31:443)[SLA][thread applet-SecureHCLauncher.class-2] deployment.repository.enabled
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.443)[applet-SecureHCLauncher.class-2] (21:13:31:443)[SLA][thread applet-SecureHCLauncher.class-2] deployment.security.SSLv2Hello
+ -- [false] --
+../common/Secure:1188 (08/22 21:13:31.443)[applet-SecureHCLauncher.class-2] (21:13:31:443)[SLA][thread applet-SecureHCLauncher.class-2] deployment.javapi.runtime.type
+ -- [0] --
+../common/Secure:1188 (08/22 21:13:31.444)[applet-SecureHCLauncher.class-2] (21:13:31:444)[SLA][thread applet-SecureHCLauncher.class-2] deployment.javaws.associations
+ -- [ASK_USER] --
+../common/Secure:1188 (08/22 21:13:31.444)[applet-SecureHCLauncher.class-2] (21:13:31:444)[SLA][thread applet-SecureHCLauncher.class-2] deployment.security.TLSv1.2
+ -- [false] --
+../common/Secure:1188 (08/22 21:13:31.444)[applet-SecureHCLauncher.class-2] (21:13:31:444)[SLA][thread applet-SecureHCLauncher.class-2] deployment.security.TLSv1.1
+ -- [false] --
+../common/Secure:1188 (08/22 21:13:31.444)[applet-SecureHCLauncher.class-2] (21:13:31:444)[SLA][thread applet-SecureHCLauncher.class-2] java.vendor
+ -- [Oracle Corporation] --
+../common/Secure:1188 (08/22 21:13:31.444)[applet-SecureHCLauncher.class-2] (21:13:31:444)[SLA][thread applet-SecureHCLauncher.class-2] file.separator.applet
+ -- [true] --
+../common/Secure:1188 (08/22 21:13:31.444)[applet-SecureHCLauncher.class-2] (21:13:31:444)[SLA][thread applet-SecureHCLauncher.class-2] java.specification.version
+ -- [1.7] --
+../common/Secure:1188 (08/22 21:13:31.444)[applet-SecureHCLauncher.class-2] (21:13:31:444)[SLA][thread applet-SecureHCLauncher.class-2] deployment.user.security.saved.credentials
+ -- [/home/weimingz/.java/deployment/security/auth.dat] --
+../common/Secure:1188 (08/22 21:13:31.444)[applet-SecureHCLauncher.class-2] (21:13:31:444)[SLA][thread applet-SecureHCLauncher.class-2] sun.arch.data.model
+ -- [32] --
+../common/Secure:1190 (08/22 21:13:31.444)[applet-SecureHCLauncher.class-2] (21:13:31:444)[SLA][thread applet-SecureHCLauncher.class-2] *** ERROR *** getParameter("ivehost") returned null, missing from <APPLET> tag.
+../common/Secure:1188 (08/22 21:13:31.445)[applet-SecureHCLauncher.class-2] (21:13:31:445)[SLA][thread applet-SecureHCLauncher.class-2] UpdateStatus: HTML error, sorry.
+../common/Secure:1188 (08/22 21:13:31.446)[applet-SecureHCLauncher.class-2] (21:13:31:445)[SLA][thread applet-SecureHCLauncher.class-2] -----------------------------------------------------
+../common/Secure:1188 (08/22 21:13:31.446)[applet-SecureHCLauncher.class-2] (21:13:31:446)[SLA][thread applet-SecureHCLauncher.class-2] Parameter0=action=stop
+../common/Secure:1188 (08/22 21:13:31.446)[applet-SecureHCLauncher.class-2] (21:13:31:446)[SLA][thread applet-SecureHCLauncher.class-2] Sending install action on connection to local port 53833
+../common/Secure:1190 (08/22 21:13:31.448)[applet-SecureHCLauncher.class-2] (21:13:31:448)[SLA][thread applet-SecureHCLauncher.class-2] *** ERROR *** EXCEPTION : null
+java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at SecureHCLauncher.openCommandSocket(SecureHCLauncher.java:434)
+	at SecureHCLauncher.sendAction(SecureHCLauncher.java:447)
+	at SecureHCLauncher.start(SecureHCLauncher.java:193)
+	at com.sun.deploy.uitoolkit.impl.awt.AWTAppletAdapter.start(Unknown Source)
+	at sun.plugin2.applet.Plugin2Manager$AppletExecutionRunnable.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+../common/Secure:1188 (08/22 21:13:31.448)[applet-SecureHCLauncher.class-2] (21:13:31:448)[SLA][thread applet-SecureHCLauncher.class-2] SecureHCLauncher.onFinishedLoading called
+../common/Secure:1188 (08/22 21:13:31.448)[applet-SecureHCLauncher.class-2] (21:13:31:448)[SLA][thread applet-SecureHCLauncher.class-2] SecureHCLauncher.onFinishedLoading: loading https://myvpn.qualcomm.com/dana-na/auth/url_2/welcome.cgi?p=logout&c=164&u=useruidf34e0c84c9a610bf3392734a5354c588ace302ed&signinUrl=5xT4U62sBQABAAAA0s-dLsVOyjnMI4YtasxXAdtk9yDf5FbaMzCZrGNZ8WVVVLGD-V5Ve215xZNe1vbW

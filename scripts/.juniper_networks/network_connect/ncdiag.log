@@ -1,0 +1,83 @@
+20120918040158.931698 ncdiag[p785.t785] ncdiag.info NC Diagnostics for Linux. 
+Version 1.0.
+Release Date/Time: Apr 25 2011 04:10:29
+ (ncdiag.cpp:845)
+20120918040158.931838 ncdiag[p785.t785] ncdiag.info +==============================================================================+
+ (ncdiag.cpp:60)
+20120918040158.931860 ncdiag[p785.t785] ncdiag.info |   Tests:			|    	 Results:		               |
+ (ncdiag.cpp:61)
+20120918040158.931874 ncdiag[p785.t785] ncdiag.info +==============================================================================+
+ (ncdiag.cpp:62)
+20120918040158.939122 ncdiag[p785.t785] ncdiag.info 
+       o  NC Installation Check 	  (ncdiag.cpp:82)
+20120918040158.939182 ncdiag[p785.t785] ncdiag.info Failed
+ (ncdiag.cpp:87)
+20120918040158.939199 ncdiag[p785.t785] ncdiag.info        o  NC Diagnostics 			
+ (ncdiag.cpp:848)
+20120918040158.947769 ncdiag[p785.t785] ncdiag.info              NC Service 		  (ncdiag.cpp:119)
+20120918040158.947839 ncdiag[p785.t785] ncdiag.info Not Running
+ (ncdiag.cpp:124)
+20120918040158.950887 ncdiag[p785.t785] ncdiag.info              NC Driver Test 		  (ncdiag.cpp:143)
+20120918040158.950933 ncdiag[p785.t785] ncdiag.info Passed
+ (ncdiag.cpp:154)
+20120918040158.952918 ncdiag[p785.t785] ncdiag.info              NC Tunnel Test 		  (ncdiag.cpp:166)
+20120918040158.952968 ncdiag[p785.t785] ncdiag.info Not established
+ (ncdiag.cpp:173)
+20120918040158.952985 ncdiag[p785.t785] ncdiag.info 
+ (ncdiag.cpp:572)
+20120918040158.952995 ncdiag[p785.t785] ncdiag.info        o  Host Details  			
+ (ncdiag.cpp:573)
+20120918040158.953003 ncdiag[p785.t785] ncdiag.info              Hostname 			  (ncdiag.cpp:578)
+20120918040158.953015 ncdiag[p785.t785] ncdiag.info myarch
+ (ncdiag.cpp:586)
+20120918040158.953023 ncdiag[p785.t785] ncdiag.info              Domainname 		  (ncdiag.cpp:589)
+20120918040158.953033 ncdiag[p785.t785] ncdiag.info (none)
+ (ncdiag.cpp:597)
+20120918040158.953041 ncdiag[p785.t785] ncdiag.info              IP Routing Enabled 	  (ncdiag.cpp:605)
+20120918040158.953108 ncdiag[p785.t785] ncdiag.info No
+ (ncdiag.cpp:617)
+20120918040158.953146 ncdiag[p785.t785] ncdiag.info              IP Loopback test 		  (ncdiag.cpp:627)
+20120918040201.953507 ncdiag[p785.t785] ncdiag.info Passed
+ (ncdiag.cpp:636)
+20120918040201.953580 ncdiag[p785.t785] ncdiag.info              Nameserver Details 	 (ncdiag.cpp:641)
+20120918040201.953622 ncdiag[p785.t785] ncdiag.info 
+               192.168.1.254 		  (ncdiag.cpp:251)
+20120918040201.959561 ncdiag[p785.t785] ncdiag.info Ping Passed
+ (ncdiag.cpp:262)
+20120918040201.959608 ncdiag[p785.t785] ncdiag.info              Gateway Ping Test 			  (ncdiag.cpp:651)
+20120918040201.959692 ncdiag[p785.t785] ncdiag.info 
+                    10.0.2.2 		  (ncdiag.cpp:545)
+20120918040201.962404 ncdiag[p785.t785] ncdiag.info Ping Passed
+ (ncdiag.cpp:553)
+20120918040201.962459 ncdiag[p785.t785] ncdiag.info 
+ (ncdiag.cpp:664)
+20120918040201.962471 ncdiag[p785.t785] ncdiag.info        o  Network Connection Diagnostics  			
+ (ncdiag.cpp:665)
+20120918040201.962493 ncdiag[p785.t785] ncdiag.info 
+	     Interface:   		 lo
+ (ncdiag.cpp:706)
+20120918040201.962508 ncdiag[p785.t785] ncdiag.info 	     IP Address:  		 127.0.0.1
+ (ncdiag.cpp:708)
+20120918040201.962519 ncdiag[p785.t785] ncdiag.info 	     Netmask:     		 255.0.0.0
+ (ncdiag.cpp:712)
+20120918040201.962529 ncdiag[p785.t785] ncdiag.info 	     MTU:         		 16436
+ (ncdiag.cpp:723)
+20120918040201.962538 ncdiag[p785.t785] ncdiag.info 
+	     Interface:   		 eth0
+ (ncdiag.cpp:706)
+20120918040201.962548 ncdiag[p785.t785] ncdiag.info 	     IP Address:  		 10.0.2.15
+ (ncdiag.cpp:708)
+20120918040201.962558 ncdiag[p785.t785] ncdiag.info 	     Netmask:     		 255.255.255.0
+ (ncdiag.cpp:712)
+20120918040201.962568 ncdiag[p785.t785] ncdiag.info 	     Broadcast:   		 10.0.2.255
+ (ncdiag.cpp:718)
+20120918040201.962576 ncdiag[p785.t785] ncdiag.info 	     MTU:         		 1500
+ (ncdiag.cpp:723)
+20120918040201.962587 ncdiag[p785.t785] ncdiag.info       o  Route Info 
+
+ (ncdiag.cpp:731)
+20120918040201.965120 ncdiag[p785.t785] ncdiag.info 
+       Finished running tests 
+ (ncdiag.cpp:70)
+20120918040201.965176 ncdiag[p785.t785] ncdiag.info +==============================================================================+
+ (ncdiag.cpp:71)

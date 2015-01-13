@@ -1,0 +1,2 @@
+myvpn.qualcomm.com
+myvpn-ral.qualcomm.com
